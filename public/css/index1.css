@@ -1,0 +1,29 @@
+
+
+
+.imagen{
+    border: 2px solid blueviolet;
+    width: 50%;
+    height: 50px;
+    margin: auto;
+background-color: red;
+
+}
+
+.imagen2{
+    border: 2px solid rgb(55, 43, 226);
+    width: 50%;
+    height: 50px;
+    margin: auto;
+    background-color: rgb(30, 121, 30);
+    padding-top: 25px;
+    padding-bottom: 25px;
+   
+}
+
+.imagen3{
+    margin-left: 0%;
+}
+
+
+
